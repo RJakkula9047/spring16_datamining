@@ -1,0 +1,21 @@
+Forecast the monthly demand on automobiles to increase sales for automotive company
+
+Overview
+Increased demand in automobile industry encouraged us to do a data analysis and bring the costs (inventory costs and advertisement at lower sales seasons) down to improve marketing strategies.
+Our main goal is to increase automobile sales and improve marketing efficiency by setting up suitable marketing strategy among regions and seasons. Since we are going to forecast demand of automobile in one year, we partition our data into one year for validation and others for training.
+We consider two set of data to generate our automobile demand forecast: (1) The number of new automobile registration, and (2) The number of automobiles (accumulated).
+Based on our forecasting results, we have the following 3 recommendations for our client: (1) increase automobile import in the next three year; (2) develop different promotional plans based on seasons; and (3) promote automobile sales with motorcycle sales (e.g. discount for customers who buy automobile with motorcycle).
+
+Data
+
+Source: The website of Ministry of Transportation and Communications R.O.C. Hyderabad
+The data would be collected from Bajaj (automobile company).
+
+Project management
+
+Our team consists of three members, Rajesh Jakkula, Ashok Chikkam and Anil Kumar Paladugu.
+We would do the following works
+Rajesh jakkula – data collection
+Ashok Chikkam –data analysis
+Anil Kumar Paladugu -documentation
+
