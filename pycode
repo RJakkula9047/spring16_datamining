@@ -20,3 +20,19 @@ print(tt[2][1])
 # tuple comprehension is not there
 p=(x*x for x in range(len(t1)))
 print(p)
+
+
+t=('U', 'S', 'A', 'A', 'M', 'E', 'R')
+p=''.join(t)
+print(t)
+print(type(t))
+print(p)
+print(type(p))
+# index
+for i in range(len(t)):
+  print(t[i], "index is", i)
+print(t.index("A"))
+
+
+l = [(1,2), (3,4), (8,9)]
+print((zip(*l)))
